@@ -6,7 +6,7 @@
 🔭 **I'm currently working on:** 
 - [Foodify Planner](https://github.com/LauTortosa/foodify.git) :   A personal project to develop a web app for organizing work in a food production factory.  
 
-🌱 **I'm currently learning:** React.  
+🌱 **I'm currently learning:** Angular.  
 
 💼 **I'm looking for:** Job opportunities as a Developer.  
 
